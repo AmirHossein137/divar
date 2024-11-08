@@ -16,16 +16,16 @@
  *              properties:
  *                  mobile:
  *                      type: string
- *                      
+ *
  */
 
 /**
  * @swagger
- * 
+ *
  * /auth/send-otp:
  *  post:
  *      summary: login with OTP in this end-point
- *      tags: 
+ *      tags:
  *          -   Auth
  *      requestBody:
  *          content:
